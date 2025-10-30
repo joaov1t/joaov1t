@@ -53,5 +53,6 @@ Gosto de explorar, entender como as coisas funcionam “por trás do código” 
 [![GitHub](https://img.shields.io/badge/-joaov1t-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaov1t)
 
 ---
+<img src="https://raw.githubusercontent.com/joaov1t/gitrepo/joaov1t/snake.svg" alt="Snake animation" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
