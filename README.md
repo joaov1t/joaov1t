@@ -32,6 +32,7 @@ Gosto de explorar, entender como as coisas funcionam “por trás do código” 
 
 ### 🧠 Ferramentas que uso
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux)&nbsp;
+![LinuxDebian](https://camo.githubusercontent.com/50a8f7547bc9d734b491eac1a60b69c8e8ddcb3d8a68d14196caea0aff5da075/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e757844656269616e2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d64656269616e266c6162656c436f6c6f723d304431313137)&nbsp;
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-0D1117?style=for-the-badge&logo=burpsuite)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
@@ -48,7 +49,7 @@ Gosto de explorar, entender como as coisas funcionam “por trás do código” 
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-João%20Vitor%20Vitoriano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-vitoriano-47b25a349/)  
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-vitoriano-47b25a349/)  
 [![GitHub](https://img.shields.io/badge/-joaov1t-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaov1t)
 
 ---
