@@ -14,10 +14,24 @@ Gosto de explorar, entender como as coisas funcionam “por trás do código” 
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236A0DAD&size=22&center=true&vCenter=true&width=600&lines=Estudante+de+Pentest;Apaixonado+por+Cibersegurança;Python+Developer;Aprendendo+Burp+Suite+e+Redes)](https://github.com/joaov1t)
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaov1t&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaov1t&layout=compact&theme=tokyonight)
+<!-- Texto digitando animado -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239900FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Pentest;Apaixonado+por+Cibersegurança;Python+Developer;Aprendendo+Burp+Suite+e+Redes)](https://github.com/joaov1t)
+
+---
+
+<!-- Estatísticas do GitHub -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaov1t&show_icons=true&theme=tokyonight&title_color=9900FF&icon_color=9900FF&text_color=c9d1d9&bg_color=0d1117)
+
+<!-- Linguagens mais usadas -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaov1t&layout=compact&theme=tokyonight&title_color=9900FF&text_color=c9d1d9&bg_color=0d1117)
+
+---
+
+### 💻 Transformando curiosidade em conhecimento!
+</div>
+
 
 ---
 
