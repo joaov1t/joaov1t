@@ -44,3 +44,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
+
+https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
