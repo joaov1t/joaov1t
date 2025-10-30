@@ -57,6 +57,6 @@ Gosto de explorar, entender como as coisas funcionam “por trás do código” 
 ![snake gif](https://github.com/joaov1t/joaov1t/blob/output/github-contribution-grid-snake.svg)
 
 
-https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+[![snake gif]https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
