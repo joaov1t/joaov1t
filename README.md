@@ -36,21 +36,17 @@ Gosto de explorar, entender como as coisas funcionam “por trás do código” 
 ---
 
 ### ⚙️ Principais Habilidades
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
-![Pentest](https://img.shields.io/badge/-Pentest-0D1117?style=for-the-badge&logo=cyberdefenders&logoColor=purple)&nbsp;
-![Redes](https://img.shields.io/badge/-Redes-0D1117?style=for-the-badge&logo=cisco)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3)&nbsp;
-
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,kali,windows,redhat,ps)](https://skillicons.dev)
 ---
 
 ### 🧠 Ferramentas que uso
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux)&nbsp;
-![LinuxDebian](https://camo.githubusercontent.com/50a8f7547bc9d734b491eac1a60b69c8e8ddcb3d8a68d14196caea0aff5da075/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e757844656269616e2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d64656269616e266c6162656c436f6c6f723d304431313137)&nbsp;
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-0D1117?style=for-the-badge&logo=burpsuite)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,debian,kali,git,github" />
+  </a>
+  <img width="48" style="margin-left:4px;" src="https://user-images.githubusercontent.com/17954762/47567241-4b4f2080-d92e-11e8-830c-b5db21beab69.png" alt="Burp Suite"/>
+</p>
+
 
 ---
 
