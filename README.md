@@ -54,12 +54,4 @@ Gosto de explorar, entender como as coisas funcionam “por trás do código” 
 
 ---
 
-![snake gif](https://github.com/joaov1t/joaov1t/blob/output/github-contribution-grid-snake.svg)
-
-
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
