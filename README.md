@@ -4,10 +4,10 @@
 
 **`Estudante Autodidata de Pentest e Cibersegurança`**
 
-Fala aí! 👋 Sou **João Vitor**, tenho **17 anos** e sou um **estudante autodidata** apaixonado por **hacking ético**, **redes**, **cibersegurança** e **desenvolvimento web**.  
+Fala aí! Sou **João Vitor**, tenho **17 anos** e sou um **estudante autodidata** apaixonado por **hacking ético**, **redes**, **cibersegurança** e **desenvolvimento web**.  
 Atualmente estou cursando o **Ensino Médio** e passo boa parte do meu tempo estudando **Python**, **Burp Suite**, **Kali Linux** e **testes de invasão**, sempre aprendendo na prática e criando **scripts e POCs** pra evoluir minhas habilidades.  
 
-Gosto de explorar, entender como as coisas funcionam “por trás do código” e usar isso pra tornar a web mais segura. 🚀  
+Gosto de explorar, entender como as coisas funcionam “por trás do código” e usar isso pra tornar a web mais segura.  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-vitoriano-47b25a349/)  
 🐙 [GitHub](https://github.com/joaov1t)
