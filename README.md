@@ -21,9 +21,12 @@ Gosto de explorar, entender como as coisas funcionam “por trás do código” 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaov1t&show_icons=true&theme=tokyonight)
+<!-- Estatísticas do GitHub -->
+![GitHub Stats](https://vercel.app)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaov1t&layout=compact&theme=tokyonight)
+<!-- Linguagens mais usadas -->
+![Top Langs](https://vercel.app)
+
 
 ---
 
