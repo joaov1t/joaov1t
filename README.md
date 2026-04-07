@@ -12,23 +12,7 @@ Gosto de explorar, entender como as coisas funcionam “por trás do código” 
 🔗 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-vitoriano-47b25a349/)  
 🐙 [GitHub](https://github.com/joaov1t)
 
----
 
-<div align="center">
-
-<!-- Texto digitando animado -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239900FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Pentest;Apaixonado+por+Cibersegurança;Python+Developer;Aprendendo+Burp+Suite+e+Redes)](https://github.com/joaov1t)
-
----
-
-<!-- Estatísticas do GitHub -->
-![GitHub Stats](https://vercel.app)
-
-<!-- Linguagens mais usadas -->
-![Top Langs](https://vercel.app)
-
-
----
 
 ### 💻 Transformando curiosidade em conhecimento!
 </div>
